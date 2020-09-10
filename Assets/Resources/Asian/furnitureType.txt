@@ -1,0 +1,1 @@
+Bed;Cabinet;Chair;Curtain;Decoration;Desktop;DiningTable;Door;Floor;Lamp;Sofa;Wall;

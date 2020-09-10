@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: ee6da1f985349c44e8d2d56dff00577e
+timeCreated: 1515018758
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: burner1
+    100002: burner2
+    100004: burner3
+    100006: burner4
+    100008: button1
+    100010: button2
+    100012: button3
+    100014: button4
+    100016: door
+    100018: door_back
+    100020: door_inner
+    100022: front
+    100024: glass
+    100026: grill1
+    100028: grill2
+    100030: grill3
+    100032: grill4
+    100034: handle
+    100036: hotplate1
+    100038: hotplate2
+    100040: inner
+    100042: //RootNode
+    100044: screen
+    100046: top
+    400000: burner1
+    400002: burner2
+    400004: burner3
+    400006: burner4
+    400008: button1
+    400010: button2
+    400012: button3
+    400014: button4
+    400016: door
+    400018: door_back
+    400020: door_inner
+    400022: front
+    400024: glass
+    400026: grill1
+    400028: grill2
+    400030: grill3
+    400032: grill4
+    400034: handle
+    400036: hotplate1
+    400038: hotplate2
+    400040: inner
+    400042: //RootNode
+    400044: screen
+    400046: top
+    2300000: burner1
+    2300002: burner2
+    2300004: burner3
+    2300006: burner4
+    2300008: button1
+    2300010: button2
+    2300012: button3
+    2300014: button4
+    2300016: door
+    2300018: door_back
+    2300020: door_inner
+    2300022: front
+    2300024: glass
+    2300026: grill1
+    2300028: grill2
+    2300030: grill3
+    2300032: grill4
+    2300034: handle
+    2300036: hotplate1
+    2300038: hotplate2
+    2300040: inner
+    2300042: //RootNode
+    2300044: screen
+    2300046: top
+    3300000: burner1
+    3300002: burner2
+    3300004: burner3
+    3300006: burner4
+    3300008: button1
+    3300010: button2
+    3300012: button3
+    3300014: button4
+    3300016: door
+    3300018: door_back
+    3300020: door_inner
+    3300022: front
+    3300024: glass
+    3300026: grill1
+    3300028: grill2
+    3300030: grill3
+    3300032: grill4
+    3300034: handle
+    3300036: hotplate1
+    3300038: hotplate2
+    3300040: inner
+    3300042: //RootNode
+    3300044: screen
+    3300046: top
+    4300000: oven_model2
+    4300002: inner
+    4300004: top
+    4300006: grill1
+    4300008: grill3
+    4300010: grill2
+    4300012: grill4
+    4300014: burner4
+    4300016: burner3
+    4300018: burner1
+    4300020: burner2
+    4300022: front
+    4300024: button4
+    4300026: button1
+    4300028: button2
+    4300030: door
+    4300032: door_inner
+    4300034: door_back
+    4300036: glass
+    4300038: handle
+    4300040: screen
+    4300042: button3
+    4300044: hotplate1
+    4300046: hotplate2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

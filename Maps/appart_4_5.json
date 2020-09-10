@@ -1,0 +1,350 @@
+{
+  "wallHeight": 2.40,
+  "wallWidth": 0.25,
+  "windowH1": 1,
+  "windowH2": 0.50,
+  "doorH2": 0.40,
+  "entryPoint": [ 3, 15 ],
+  "segments": [
+    {
+      "name": "s1",
+      "start": [ 3, 0 ],
+      "stop": [ 3, 5 ],
+      "window": {}
+    },
+    {
+      "name": "s2",
+      "start": [ 3, 0 ],
+      "stop": [ 11, 0 ],
+      "window": {}
+    },
+    {
+      "name": "s3",
+      "start": [ 11, 0 ],
+      "stop": [ 11, 5 ],
+      "window": {
+        "start": [ 11, 2 ],
+        "stop": [ 11, 4 ]
+      }
+    },
+    {
+      "name": "s4",
+      "start": [ 6, 5 ],
+      "stop": [ 11, 5 ],
+      "window": {}
+    },
+    {
+      "name": "s5",
+      "start": [ 5, 5 ],
+      "stop": [ 6, 5 ],
+      "window": {}
+    },
+    {
+      "name": "s6",
+      "start": [ 3, 5 ],
+      "stop": [ 4, 5 ],
+      "window": {}
+    },
+    {
+      "name": "s7",
+      "start": [ 0, 5 ],
+      "stop": [ 3, 5 ],
+      "window": {}
+    },
+    {
+      "name": "s8",
+      "start": [ 0, 5 ],
+      "stop": [ 0, 9 ],
+      "window": {}
+    },
+    {
+      "name": "s9",
+      "start": [ 3, 5 ],
+      "stop": [ 3, 7 ],
+      "window": {}
+    },
+    {
+      "name": "s10",
+      "start": [ 3, 8 ],
+      "stop": [ 3, 9 ],
+      "window": {}
+    },
+    {
+      "name": "s11",
+      "start": [ 0, 9 ],
+      "stop": [ 3, 9 ],
+      "window": {}
+    },
+    {
+      "name": "s12",
+      "start": [ 0, 9 ],
+      "stop": [ 0, 13 ],
+      "window": {}
+    },
+    {
+      "name": "s13",
+      "start": [ 3, 9 ],
+      "stop": [ 3, 11 ],
+      "window": {}
+    },
+    {
+      "name": "s14",
+      "start": [ 3, 12 ],
+      "stop": [ 3, 13 ],
+      "window": {}
+    },
+    {
+      "name": "s15",
+      "start": [ 0, 13 ],
+      "stop": [ 3, 13 ],
+      "window": {}
+    },
+    {
+      "name": "s16",
+      "start": [ 0, 13 ],
+      "stop": [ 0, 14 ],
+      "window": {}
+    },
+    {
+      "name": "s17",
+      "start": [ 0, 15 ],
+      "stop": [ 0, 17 ],
+      "window": {}
+    },
+    {
+      "name": "s18",
+      "start": [ 0, 17 ],
+      "stop": [ 2, 17 ],
+      "window": {}
+    },
+    {
+      "name": "s19",
+      "start": [ 0, 17 ],
+      "stop": [ 0, 23 ],
+      "window": {}
+    },
+    {
+      "name": "s20",
+      "start": [ 0, 23 ],
+      "stop": [ 6, 23 ],
+      "window": {
+        "start": [ 2, 23 ],
+        "stop": [ 4, 23 ]
+      }
+    },
+    {
+      "name": "s21",
+      "start": [ 6, 17 ],
+      "stop": [ 6, 21 ],
+      "window": {}
+    },
+    {
+      "name": "s22",
+      "start": [ 4, 17 ],
+      "stop": [ 6, 17 ],
+      "window": {}
+    },
+    {
+      "name": "s23",
+      "start": [ 6, 23 ],
+      "stop": [ 12, 23 ],
+      "window": {
+        "start": [ 8, 23 ],
+        "stop": [ 10, 23 ]
+      }
+    },
+    {
+      "name": "s24",
+      "start": [ 12, 15 ],
+      "stop": [ 12, 23 ],
+      "window": {
+        "start": [ 12, 18 ],
+        "stop": [ 12, 20 ]
+      }
+    },
+    {
+      "name": "s25",
+      "start": [ 6, 15 ],
+      "stop": [ 12, 15 ],
+      "window": {}
+    },
+    {
+      "name": "s26",
+      "start": [ 11, 10 ],
+      "stop": [ 11, 15 ],
+      "window": {
+        "start": [ 11, 12 ],
+        "stop": [ 11, 14 ]
+      }
+    },
+    {
+      "name": "s27",
+      "start": [ 6, 12 ],
+      "stop": [ 6, 15 ],
+      "window": {}
+    },
+    {
+      "name": "s28",
+      "start": [ 6, 10 ],
+      "stop": [ 6, 11 ],
+      "window": {}
+    },
+    {
+      "name": "s29",
+      "start": [ 6, 10 ],
+      "stop": [ 11, 10 ],
+      "window": {}
+    },
+    {
+      "name": "s30",
+      "start": [ 11, 5 ],
+      "stop": [ 11, 10 ],
+      "window": {
+        "start": [ 11, 7 ],
+        "stop": [ 11, 8 ]
+      }
+    },
+    {
+      "name": "s31",
+      "start": [ 6, 7 ],
+      "stop": [ 6, 10 ],
+      "window": {}
+    },
+    {
+      "name": "s32",
+      "start": [ 6, 5 ],
+      "stop": [ 6, 6 ],
+      "window": {}
+    }
+  ],
+  "areas": [
+    {
+      "type": "Kitchen",
+      "points": [
+        [ 0, 17 ],
+        [ 6, 17 ],
+        [ 0, 23 ],
+        [ 6, 23 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "LivingRoom",
+      "points": [
+        [ 6, 15 ],
+        [ 12, 15 ],
+        [ 6, 23 ],
+        [ 12 , 23]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Corridor",
+      "points": [
+        [ 0, 13 ],
+        [ 6, 13 ],
+        [ 0, 17 ],
+        [ 6, 17 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Corridor",
+      "points": [
+        [ 3, 5 ],
+        [ 6, 5 ],
+        [ 3, 13 ],
+        [ 6, 13 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Bathroom",
+      "points": [
+        [ 0, 9 ],
+        [ 3, 9 ],
+        [ 0, 13 ],
+        [ 3, 13 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Bathroom",
+      "points": [
+        [ 0, 5 ],
+        [ 3, 5 ],
+        [ 0, 9 ],
+        [ 3, 9 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Room",
+      "points": [
+        [ 6, 10 ],
+        [ 11, 10 ],
+        [ 6, 15 ],
+        [ 11, 15 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Room",
+      "points": [
+        [ 6, 5 ],
+        [ 11, 5 ],
+        [ 6, 10 ],
+        [ 11, 10]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Room",
+      "points": [
+        [ 3, 0 ],
+        [ 11, 0 ],
+        [ 3, 5 ],
+        [ 11, 5 ]
+      ],
+      "isLightOn": true
+    }
+  ],
+  "doors": [
+    {
+      "name": "d1",
+      "isFrontDoor": true,
+      "start": [ 0, 14 ],
+      "stop": [ 0, 15 ]
+    },
+    {
+      "name": "d2",
+      "isFrontDoor": false,
+      "start": [ 3, 11 ],
+      "stop": [ 3, 12 ]
+    },
+    {
+      "name": "d3",
+      "isFrontDoor": false,
+      "start": [ 6, 11 ],
+      "stop": [ 6, 12 ]
+    },
+    {
+      "name": "d4",
+      "isFrontDoor": false,
+      "start": [ 3, 7 ],
+      "stop": [ 3, 8 ]
+    },
+    {
+      "name": "d5",
+      "isFrontDoor": false,
+      "start": [ 6, 6 ],
+      "stop": [ 6, 7 ]
+    },
+    {
+      "name": "d6",
+      "isFrontDoor": false,
+      "start": [ 4, 5 ],
+      "stop": [ 5, 5 ]
+    }
+  ]
+}

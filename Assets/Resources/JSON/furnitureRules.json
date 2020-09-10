@@ -1,0 +1,82 @@
+{
+	"areaRules":[
+		{
+			"type":"LivingRoom",
+			"furnitureType":["DiningTable", "Sofa", "Decoration", "Chair", "Cabinet"]
+		},
+		{
+			"type":"Room",
+			"furnitureType":["Bed", "Desktop", "Cabinet", "Decoration"]
+		},
+		{
+			"type" : "Kitchen",
+			"furnitureType":["Fridge", "Oven", "KitchenWashbasin", "KitchenCabinet", "Decoration"]
+		},
+		{
+			"type":"Bathroom",
+			"furnitureType":["Toilet", "BathroomWashbasin", "WaterSource", "Decoration"]
+		},
+		{
+			"type":"Corridor",
+			"furnitureType":["Decoration"]
+		}
+	],
+	"furnitureConstraints":[
+		{
+			"furnitureName" : "DiningTable",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "Sofa",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "Cabinet",
+			"quantityConstraints": "ZeroToMany"
+		},
+		{
+			"furnitureName" : "Desktop",
+			"quantityConstraints": "ZeroToOne"
+		},
+		{
+			"furnitureName" : "Chair",
+			"quantityConstraints": "ZeroToMany"
+		},
+		{
+			"furnitureName" : "Decoration",
+			"quantityConstraints": "ZeroToMany"
+		},
+		{
+			"furnitureName" : "Bed",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "Oven",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "KitchenWashbasin",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "Fridge",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "Toilet",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "BathroomWashbasin",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName" : "WaterSource",
+			"quantityConstraints": "OneToOne"
+		},
+		{
+			"furnitureName": "KitchenCabinet",
+			"quantityConstraints": "OneToOne"
+		}
+	]
+}

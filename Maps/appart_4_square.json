@@ -1,0 +1,316 @@
+{
+  "wallHeight": 2.40,
+  "wallWidth": 0.25,
+  "windowH1": 1,
+  "windowH2": 0.50,
+  "doorH2": 0.40,
+  "entryPoint": [3,3],
+  "segments": [
+    {
+      "name": "s1",
+      "start": [ 0, 0 ],
+      "stop": [ 7, 0 ],
+      "window": {
+        "start": [ 2, 0 ],
+        "stop": [ 4, 0 ]
+      }
+    },
+	{
+      "name": "s2",
+      "start": [ 7, 0 ],
+      "stop": [ 7, 2 ],
+      "window": {}
+    },
+	{
+      "name": "s3",
+      "start": [ 7, 2 ],
+      "stop": [ 10, 2 ],
+      "window": {}
+    },
+	{
+      "name": "s4",
+      "start": [ 10, 0 ],
+      "stop": [ 10, 2 ],
+      "window": {}
+    },
+	{
+      "name": "s5",
+      "start": [ 10, 0 ],
+      "stop": [ 17, 0 ],
+      "window": {
+        "start": [ 12, 0 ],
+        "stop": [ 15, 0 ]
+      }
+    },
+	{
+      "name": "s6",
+      "start": [ 17, 0 ],
+      "stop": [ 17, 7 ],
+      "window": {
+        "start": [ 17, 2 ],
+        "stop": [ 17, 5 ]
+      }
+    },
+	{
+      "name": "s7",
+      "start": [ 15, 7 ],
+      "stop": [ 17, 7 ],
+      "window": {}
+    },
+	{
+      "name": "s8",
+      "start": [ 15, 7 ],
+      "stop": [ 15, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s9",
+      "start": [ 15, 10 ],
+      "stop": [ 17, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s10",
+      "start": [ 17, 10 ],
+      "stop": [ 17, 17 ],
+      "window": {
+        "start": [ 17, 12 ],
+        "stop": [ 17, 15 ]
+      }
+    },
+	{
+      "name": "s11",
+      "start": [ 10, 17 ],
+      "stop": [ 17, 17 ],
+      "window": {
+        "start": [ 12, 17 ],
+        "stop": [ 15, 17 ]
+      }
+    },
+	{
+      "name": "s12",
+      "start": [ 10, 15 ],
+      "stop": [ 10, 17 ],
+      "window": {}
+    },
+	{
+      "name": "s13",
+      "start": [ 7, 15 ],
+      "stop": [ 10, 15 ],
+      "window": {}
+    },
+	{
+      "name": "s14",
+      "start": [ 7, 15 ],
+      "stop": [ 7, 17 ],
+      "window": {}
+    },
+	{
+      "name": "s15",
+      "start": [ 0, 17 ],
+      "stop": [ 7, 17 ],
+      "window": {
+        "start": [ 2, 17 ],
+        "stop": [ 5, 17 ]
+      }
+    },
+	{
+      "name": "s16",
+      "start": [ 0, 10 ],
+      "stop": [ 0, 17 ],
+      "window": {
+        "start": [ 0, 12 ],
+        "stop": [ 0, 15 ]
+      }
+    },
+	{
+      "name": "s17",
+      "start": [ 0, 10 ],
+      "stop": [ 2, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s18",
+      "start": [ 2, 7 ],
+      "stop": [ 2, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s19",
+      "start": [ 0, 7 ],
+      "stop": [ 2, 7 ],
+      "window": {}
+    },
+	{
+      "name": "s20",
+      "start": [ 0, 1 ],
+      "stop": [ 0, 7 ],
+      "window": {
+        "start": [ 0, 3 ],
+        "stop": [ 0, 5 ]
+      }
+    },
+	{
+      "name": "s21",
+      "start": [ 7, 4 ],
+      "stop": [ 7, 7 ],
+      "window": {}
+    },
+	{
+      "name": "s22",
+      "start": [ 7, 4 ],
+      "stop": [ 10, 4 ],
+      "window": {}
+    },
+	{
+      "name": "s23",
+      "start": [ 10, 4 ],
+      "stop": [ 10, 7 ],
+      "window": {}
+    },
+	{
+      "name": "s24",
+      "start": [ 10, 7 ],
+      "stop": [ 13, 7 ],
+      "window": {}
+    },
+	{
+      "name": "s25",
+      "start": [ 13, 7 ],
+      "stop": [ 13, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s26",
+      "start": [ 10, 10 ],
+      "stop": [ 13, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s27",
+      "start": [ 10, 10 ],
+      "stop": [ 10, 13 ],
+      "window": {}
+    },
+	{
+      "name": "s28",
+      "start": [ 7, 13 ],
+      "stop": [ 10, 13 ],
+      "window": {}
+    },
+	{
+      "name": "s29",
+      "start": [ 7, 10 ],
+      "stop": [ 7, 13 ],
+      "window": {}
+    },
+	{
+      "name": "s30",
+      "start": [ 4, 10 ],
+      "stop": [ 7, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s31",
+      "start": [ 4, 7 ],
+      "stop": [ 4, 10 ],
+      "window": {}
+    },
+	{
+      "name": "s32",
+      "start": [ 4, 7 ],
+      "stop": [ 7, 7 ],
+      "window": {}
+    }
+  ],
+  "areas": [
+    {
+      "type": "LivingRoom",
+      "points": [
+        [ 0, 0 ],
+        [ 7, 0 ],
+        [ 0, 7 ],
+        [ 7, 7 ]
+      ],
+      "isLightOn" : true
+    },
+    {
+      "type": "Kitchen",
+      "points": [
+        [ 10, 0 ],
+        [ 17, 0 ],
+        [ 10, 7 ],
+        [ 17, 7 ]
+      ],
+      "isLightOn" : true
+    },
+	{
+      "type": "Room",
+      "points": [
+        [ 10, 10 ],
+        [ 17, 10 ],
+        [ 10, 17 ],
+        [ 17, 17 ]
+      ],
+      "isLightOn" : true
+    },
+	{
+      "type": "Room",
+      "points": [
+        [ 0, 10 ],
+        [ 7, 10 ],
+        [ 0, 17 ],
+        [ 7, 17 ]
+      ],
+      "isLightOn" : true
+    },
+	{
+      "type": "Corridor",
+      "points": [
+        [ 2, 7 ],
+        [ 4, 7 ],
+        [ 2, 10 ],
+        [ 4, 10 ]
+      ],
+      "isLightOn" : true
+    },
+    {
+      "type": "Corridor",
+      "points": [
+        [ 7, 13 ],
+        [ 10, 13 ],
+        [ 7, 15 ],
+        [ 10, 15 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Corridor",
+      "points": [
+        [ 13, 7 ],
+        [ 15, 7 ],
+        [ 13, 10 ],
+        [ 15, 10 ]
+      ],
+      "isLightOn": true
+    },
+    {
+      "type": "Corridor",
+      "points": [
+        [ 7, 2 ],
+        [ 10, 2 ],
+        [ 7, 4 ],
+        [ 10, 4 ]
+      ],
+      "isLightOn": true
+    }
+  ],
+  "doors": [
+    {
+      "name": "d1",
+      "isFrontDoor": true,
+      "start": [0,0],
+      "stop": [0,1]
+    }
+  ]
+}

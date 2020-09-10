@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 852e7e5ea1689bd42ae8e4138d4a7cbe
+timeCreated: 1515019010
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: back
+    100002: //RootNode
+    100004: drawer1
+    100006: drawer1_front
+    100008: drawer1_handle
+    100010: drawer1_handleL
+    100012: drawer1_handleR
+    100014: drawer1_inner
+    100016: drawer2
+    100018: drawer2_front
+    100020: drawer2_handle
+    100022: drawer2_handleL
+    100024: drawer2_handleR
+    100026: drawer2_inner
+    100028: drawer3
+    100030: drawer3_front
+    100032: drawer3_handle
+    100034: drawer3_handleL
+    100036: drawer3_handleR
+    100038: drawer3_inner
+    100040: drawer4
+    100042: drawer4_front
+    100044: drawer4_handle
+    100046: drawer4_handleL
+    100048: drawer4_handleR
+    100050: drawer4_inner
+    100052: top
+    400000: back
+    400002: //RootNode
+    400004: drawer1
+    400006: drawer1_front
+    400008: drawer1_handle
+    400010: drawer1_handleL
+    400012: drawer1_handleR
+    400014: drawer1_inner
+    400016: drawer2
+    400018: drawer2_front
+    400020: drawer2_handle
+    400022: drawer2_handleL
+    400024: drawer2_handleR
+    400026: drawer2_inner
+    400028: drawer3
+    400030: drawer3_front
+    400032: drawer3_handle
+    400034: drawer3_handleL
+    400036: drawer3_handleR
+    400038: drawer3_inner
+    400040: drawer4
+    400042: drawer4_front
+    400044: drawer4_handle
+    400046: drawer4_handleL
+    400048: drawer4_handleR
+    400050: drawer4_inner
+    400052: top
+    2300000: back
+    2300002: //RootNode
+    2300004: drawer1
+    2300006: drawer1_front
+    2300008: drawer1_handle
+    2300010: drawer1_handleL
+    2300012: drawer1_handleR
+    2300014: drawer1_inner
+    2300016: drawer2
+    2300018: drawer2_front
+    2300020: drawer2_handle
+    2300022: drawer2_handleL
+    2300024: drawer2_handleR
+    2300026: drawer2_inner
+    2300028: drawer3
+    2300030: drawer3_front
+    2300032: drawer3_handle
+    2300034: drawer3_handleL
+    2300036: drawer3_handleR
+    2300038: drawer3_inner
+    2300040: drawer4
+    2300042: drawer4_front
+    2300044: drawer4_handle
+    2300046: drawer4_handleL
+    2300048: drawer4_handleR
+    2300050: drawer4_inner
+    2300052: top
+    3300000: back
+    3300002: //RootNode
+    3300004: drawer1
+    3300006: drawer1_front
+    3300008: drawer1_handle
+    3300010: drawer1_handleL
+    3300012: drawer1_handleR
+    3300014: drawer1_inner
+    3300016: drawer2
+    3300018: drawer2_front
+    3300020: drawer2_handle
+    3300022: drawer2_handleL
+    3300024: drawer2_handleR
+    3300026: drawer2_inner
+    3300028: drawer3
+    3300030: drawer3_front
+    3300032: drawer3_handle
+    3300034: drawer3_handleL
+    3300036: drawer3_handleR
+    3300038: drawer3_inner
+    3300040: drawer4
+    3300042: drawer4_front
+    3300044: drawer4_handle
+    3300046: drawer4_handleL
+    3300048: drawer4_handleR
+    3300050: drawer4_inner
+    3300052: top
+    4300000: cupboard_model3
+    4300002: top
+    4300004: back
+    4300006: drawer2
+    4300008: drawer2_inner
+    4300010: drawer2_front
+    4300012: drawer2_handle
+    4300014: drawer2_handleL
+    4300016: drawer2_handleR
+    4300018: drawer3
+    4300020: drawer3_inner
+    4300022: drawer3_front
+    4300024: drawer3_handle
+    4300026: drawer3_handleL
+    4300028: drawer3_handleR
+    4300030: drawer4
+    4300032: drawer4_inner
+    4300034: drawer4_front
+    4300036: drawer4_handle
+    4300038: drawer4_handleL
+    4300040: drawer4_handleR
+    4300042: drawer1
+    4300044: drawer1_inner
+    4300046: drawer1_front
+    4300048: drawer1_handle
+    4300050: drawer1_handleL
+    4300052: drawer1_handleR
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 6a33fe9a89d1d8a4a8cd1fb8cd946be2
+timeCreated: 1515019461
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: doorL
+    100002: doorR
+    100004: handleL
+    100006: handleL_part1
+    100008: handleL_part2
+    100010: handleR
+    100012: handleR_part1
+    100014: handleR_part2
+    100016: inner
+    100018: pipe
+    100020: //RootNode
+    100022: sink_bottom
+    100024: sink_bottom_part1
+    100026: sink_bottom_part2
+    100028: sink_center
+    100030: tap
+    100032: tap_part1
+    100034: tap_part2
+    100036: top_part1
+    100038: top_part2
+    400000: doorL
+    400002: doorR
+    400004: handleL
+    400006: handleL_part1
+    400008: handleL_part2
+    400010: handleR
+    400012: handleR_part1
+    400014: handleR_part2
+    400016: inner
+    400018: pipe
+    400020: //RootNode
+    400022: sink_bottom
+    400024: sink_bottom_part1
+    400026: sink_bottom_part2
+    400028: sink_center
+    400030: tap
+    400032: tap_part1
+    400034: tap_part2
+    400036: top_part1
+    400038: top_part2
+    2300000: doorL
+    2300002: doorR
+    2300004: handleL
+    2300006: handleL_part1
+    2300008: handleL_part2
+    2300010: handleR
+    2300012: handleR_part1
+    2300014: handleR_part2
+    2300016: inner
+    2300018: pipe
+    2300020: //RootNode
+    2300022: sink_bottom
+    2300024: sink_bottom_part1
+    2300026: sink_bottom_part2
+    2300028: sink_center
+    2300030: tap
+    2300032: tap_part1
+    2300034: tap_part2
+    2300036: top_part1
+    2300038: top_part2
+    3300000: doorL
+    3300002: doorR
+    3300004: handleL
+    3300006: handleL_part1
+    3300008: handleL_part2
+    3300010: handleR
+    3300012: handleR_part1
+    3300014: handleR_part2
+    3300016: inner
+    3300018: pipe
+    3300020: //RootNode
+    3300022: sink_bottom
+    3300024: sink_bottom_part1
+    3300026: sink_bottom_part2
+    3300028: sink_center
+    3300030: tap
+    3300032: tap_part1
+    3300034: tap_part2
+    3300036: top_part1
+    3300038: top_part2
+    4300000: sink
+    4300002: pipe
+    4300004: tap
+    4300006: tap_part1
+    4300008: tap_part2
+    4300010: sink_center
+    4300012: sink_bottom
+    4300014: sink_bottom_part2
+    4300016: sink_bottom_part1
+    4300018: top_part2
+    4300020: top_part1
+    4300022: inner
+    4300024: doorR
+    4300026: handleR
+    4300028: handleR_part1
+    4300030: handleR_part2
+    4300032: doorL
+    4300034: handleL
+    4300036: handleL_part1
+    4300038: handleL_part2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

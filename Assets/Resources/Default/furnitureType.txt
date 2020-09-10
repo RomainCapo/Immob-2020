@@ -1,0 +1,1 @@
+BathroomWashbasin;Bed;Cabinet;Chair;Curtain;Decoration;Desktop;DiningTable;Door;Floor;Fridge;KitchenCabinet;KitchenWashbasin;Lamp;Oven;Sofa;Toilet;Wall;WaterSource;

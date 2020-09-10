@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8e0434a049944254389c0b7e61b2eb7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstPerson: {instanceID: 0}
+  - apartmentGO: {instanceID: 0}
+  - nightMat: {instanceID: 0}
+  - dayMat: {instanceID: 0}
+  - pointLight: {instanceID: 0}
+  - directionalLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

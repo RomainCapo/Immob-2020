@@ -1,0 +1,187 @@
+{
+  "wallHeight": 2.40,
+  "wallWidth": 0.25,
+  "windowH1": 1,
+  "windowH2": 0.50,
+  "doorH2": 0.40,
+  "entryPoint": [3,3],
+  "segments": [
+    {
+      "name": "s1",
+      "start": [ 0, 0 ],
+      "stop": [ 6, 0 ],
+      "window": {
+        "start": [ 2, 0 ],
+        "stop": [ 4, 0 ]
+      }
+    },
+    {
+      "name": "s2",
+      "start": [ 7, 0 ],
+      "stop": [ 9, 0 ],
+      "window": {}
+    },
+    {
+      "name": "s3",
+      "start": [ 9, 0 ],
+      "stop": [ 9, 5 ],
+      "window": {
+		 "start": [ 9, 1.5 ],
+        "stop": [ 9, 3.5 ]
+	  }
+    },
+    {
+      "name": "s4",
+      "start": [ 9, 5 ],
+      "stop": [ 8.5, 5 ],
+      "window": {
+      }
+    },
+    {
+      "name": "s5",
+      "start": [ 9, 5 ],
+      "stop": [ 9, 9 ],
+      "window": {
+        "start": [ 9, 6.5 ],
+        "stop": [ 9,  7.5]
+      }
+    },
+    {
+      "name": "s6",
+      "start": [ 7, 9 ],
+      "stop": [ 9, 9 ],
+      "window": {
+      }
+    },
+    {
+      "name": "s7",
+      "start": [ 7, 5 ],
+      "stop": [ 7, 9 ],
+      "window": {}
+    },
+    {
+      "name": "s8",
+      "start": [ 7, 5 ],
+      "stop": [ 7.5, 5 ],
+      "window": {
+      }
+    },
+    {
+      "name": "s9",
+      "start": [ 3, 9 ],
+      "stop": [ 7, 9 ],
+      "window": {
+		 "start": [ 4, 9 ],
+        "stop": [ 6, 9 ]
+      }
+    },
+	{
+      "name": "s10",
+      "start": [ 3, 5 ],
+      "stop": [ 3, 9 ],
+      "window": {
+      }
+    },
+	{
+      "name": "s11",
+      "start": [ 3, 5 ],
+      "stop": [ 4.5, 5 ],
+      "window": {
+      }
+    },
+	{
+      "name": "s12",
+      "start": [ 5.5, 5 ],
+      "stop": [ 7, 5 ],
+      "window": {
+      }
+    },
+	{
+      "name": "s13",
+      "start": [ 0, 9 ],
+      "stop": [ 3, 9 ],
+      "window": {
+	   "start": [ 1, 9 ],
+        "stop": [ 2, 9 ]
+      }
+    },
+	{
+      "name": "s14",
+      "start": [ 0, 5 ],
+      "stop": [ 0, 9 ],
+      "window": {
+      }
+    },
+	{
+      "name": "s15",
+      "start": [ 0, 0 ],
+      "stop": [ 0, 5 ],
+      "window": {
+	   "start": [ 0, 1.5 ],
+        "stop": [ 0, 3.5 ]
+      }
+    },
+  ],
+  "areas": [
+    {
+      "type": "LivingRoom",
+      "points": [
+        [ 0, 0 ],
+        [ 9, 0 ],
+        [ 0, 5 ],
+        [ 9, 5 ]
+      ],
+      "isLightOn" : true
+    },
+    {
+      "type": "Room",
+      "points": [
+        [ 3, 5 ],
+        [ 7, 5 ],
+        [ 3, 9 ],
+        [ 7, 9 ]
+      ],
+      "isLightOn": false
+    },
+    {
+      "type": "Bathroom",
+      "points": [
+        [ 7, 5 ],
+        [ 9, 5 ],
+        [ 7, 9 ],
+        [ 9, 9 ]
+      ],
+      "isLightOn": false
+    },
+	{
+      "type": "Kitchen",
+      "points": [
+        [ 0, 5 ],
+        [ 3, 5 ],
+        [ 0, 9 ],
+        [ 3, 9 ]
+      ],
+      "isLightOn": false
+    }
+  ],
+  "doors": [
+    {
+      "name": "d1",
+      "isFrontDoor": true,
+      "start": [6,0],
+      "stop": [7,0]
+    },
+    {
+      "name": "d2",
+      "isFrontDoor": false,
+      "start": [ 7.5, 5 ],
+      "stop": [ 8.5, 5 ]
+    },
+    {
+      "name": "d3",
+      "isFrontDoor" : false,
+      "start": [4.5,5],
+      "stop": [5.5,5]
+    }
+  ]
+}
